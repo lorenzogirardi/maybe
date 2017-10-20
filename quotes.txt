@@ -1,0 +1,41 @@
+maybe we need a quick call
+maybe you need to check the stacktrace
+maybe is the netwotk 
+maybe is the firewall
+maybe is the vlan acl 
+maybe is the proxy pass timeout
+maybe is a wrong url
+maybe is a file system full
+maybe is a kernel panic
+maybe we lost the switch
+maybe is a context switch
+maybe is a deadlock
+maybe is java
+maybe is tomcat
+maybe is springboot
+maybe is iis
+maybe is the code
+maybe was not enough tested
+maybe is not your job
+maybe you have to remove rubbish from /etc/hosts
+maybe is the oracle backup
+maybe is mysql
+maybe we have to pay license
+maybe is docker
+maybe you are using a wrong kubectl commands
+maybe you need a coffe
+maybe you need to open a ticket
+maybe no one want to take in charge your ticket
+maybe is the frontend
+maybe is the backend
+maybe you have to increase the ram
+maybe is an elasticsearch failure
+maybe is redis failure
+maybe you need to smoke
+maybe you have to change your job
+maybe you application is down
+maybe you need to tune your timeout
+maybe is the garbage collector
+maybe the heap is misconfigured
+maybe test with the wireless is not a deal
+maybe a load test directly in production is dangerous
